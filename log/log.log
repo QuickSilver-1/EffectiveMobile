@@ -1,0 +1,1450 @@
+2024-11-21T13:48:24.393+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:48:24.612+0300	FATAL	db/migrate.go:15	pq: database "effective" does not exist
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:15
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:48:55.835+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:48:56.053+0300	FATAL	db/migrate.go:15	pq: database "efmobil" does not exist
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:15
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:49:06.334+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:49:07.014+0300	FATAL	db/migrate.go:20	no scheme
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:20
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:50:44.077+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:50:51.868+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:51:00.205+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:51:00.907+0300	FATAL	db/migrate.go:20	no scheme
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:20
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:51:06.840+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:51:07.525+0300	FATAL	db/migrate.go:20	no scheme
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:20
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:51:19.266+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:51:19.969+0300	FATAL	db/migrate.go:20	no scheme
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:20
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:51:39.862+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:51:40.564+0300	FATAL	db/migrate.go:22	no scheme
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:22
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:51:54.089+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:52:08.699+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:52:09.380+0300	FATAL	db/migrate.go:23	no scheme
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:23
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:55:17.642+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:55:18.339+0300	FATAL	db/migrate.go:21	no scheme
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:21
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:55:55.464+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:55:56.205+0300	FATAL	db/migrate.go:21	no scheme
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:21
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:56:07.485+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:56:08.207+0300	FATAL	db/migrate.go:21	no scheme
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:21
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:57:26.572+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:57:27.259+0300	FATAL	db/migrate.go:21	no scheme
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:21
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:57:48.914+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:57:49.596+0300	FATAL	db/migrate.go:21	no scheme
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:21
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T13:59:16.475+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T13:59:17.235+0300	FATAL	db/migrate.go:20	failed to open source, "file://../../internal/migrations": source driver: unknown driver 'file' (forgotten import?)
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:20
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T14:02:42.479+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T14:02:43.402+0300	INFO	db/migrate.go:27	Миграции успешно применены!
+2024-11-21T14:02:43.402+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T14:02:43.403+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T14:02:43.403+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T14:02:43.403+0300	INFO	music/main.go:35	Сервер запущен на порту 8080
+2024-11-21T14:04:05.417+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T14:04:06.938+0300	INFO	db/migrate.go:27	Миграции успешно применены!
+2024-11-21T14:04:06.938+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T14:04:06.939+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T14:04:06.939+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T14:04:06.939+0300	INFO	music/main.go:35	Сервер запущен на порту 8080
+2024-11-21T14:05:30.305+0300	INFO	db/connect.go:51	Успешное подключение к базе данных
+2024-11-21T14:05:31.215+0300	INFO	db/migrate.go:27	Миграции успешно применены!
+2024-11-21T14:05:31.216+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T14:05:31.216+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T14:05:31.216+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T14:05:31.217+0300	INFO	music/main.go:35	Сервер запущен на порту 8080
+2024-11-21T14:06:32.825+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T14:06:33.739+0300	INFO	db/migrate.go:27	Миграции успешно применены!
+2024-11-21T14:06:33.740+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T14:06:33.740+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T14:06:33.740+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T14:06:33.741+0300	INFO	music/main.go:35	Сервер запущен на порту 8080
+2024-11-21T14:07:50.200+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T14:07:51.115+0300	INFO	db/migrate.go:27	Миграции успешно применены!
+2024-11-21T14:07:51.115+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T14:07:51.116+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T14:07:51.116+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T14:07:51.116+0300	INFO	music/main.go:35	Сервер запущен на порту 8080
+2024-11-21T14:10:52.015+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T14:10:52.248+0300	FATAL	db/migrate.go:16	pq: password authentication failed for user "roman"
+music/pkg/db.CreateSchema
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/migrate.go:16
+main.main
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/cmd/music/main.go:24
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:271
+2024-11-21T14:11:09.402+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T14:11:10.325+0300	INFO	db/migrate.go:27	Миграции успешно применены!
+2024-11-21T14:11:10.325+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T14:11:10.326+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T14:11:10.326+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T14:11:10.326+0300	INFO	music/main.go:35	Сервер запущен на порту 8080
+2024-11-21T15:54:18.592+0300	FATAL	config/config.go:30	Ошибка загрузки .env файла
+music/internal/config.NewConfig
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/config/config.go:30
+music/internal/config.init
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/config/config.go:11
+runtime.doInit1
+	C:/Program Files/Go/src/runtime/proc.go:7176
+runtime.doInit
+	C:/Program Files/Go/src/runtime/proc.go:7143
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:253
+2024-11-21T15:55:06.124+0300	FATAL	config/config.go:30	Ошибка загрузки .env файла
+music/internal/config.NewConfig
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/config/config.go:30
+music/internal/config.init
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/config/config.go:11
+runtime.doInit1
+	C:/Program Files/Go/src/runtime/proc.go:7176
+runtime.doInit
+	C:/Program Files/Go/src/runtime/proc.go:7143
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:253
+2024-11-21T15:55:18.654+0300	FATAL	config/config.go:32	Ошибка загрузки .env файла
+music/internal/config.NewConfig
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/config/config.go:32
+music/internal/config.init
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/config/config.go:12
+runtime.doInit1
+	C:/Program Files/Go/src/runtime/proc.go:7176
+runtime.doInit
+	C:/Program Files/Go/src/runtime/proc.go:7143
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:253
+2024-11-21T15:55:46.019+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T15:55:46.991+0300	INFO	db/migrate.go:27	Миграции успешно применены!
+2024-11-21T15:55:46.995+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T15:55:46.996+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T15:55:46.997+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T15:55:46.999+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T16:30:24.308+0300	FATAL	config/config.go:32	Ошибка загрузки .env файла
+music/internal/config.NewConfig
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/config/config.go:32
+music/internal/config.init
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/config/config.go:12
+runtime.doInit1
+	C:/Program Files/Go/src/runtime/proc.go:7176
+runtime.doInit
+	C:/Program Files/Go/src/runtime/proc.go:7143
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:253
+2024-11-21T16:30:55.013+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T16:30:55.113+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T16:30:55.114+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T16:30:55.115+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T16:30:55.116+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T16:32:04.044+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T16:32:04.105+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T16:32:04.106+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T16:32:04.106+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T16:32:04.106+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T16:36:11.902+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T16:36:11.942+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T16:36:11.942+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T16:36:11.942+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T16:36:11.943+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T16:37:18.675+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T16:37:18.706+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T16:37:18.706+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T16:37:18.706+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T16:37:18.707+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T16:37:19.804+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T16:37:19.806+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {400 Неверный формат ввода страницы}
+2024-11-21T16:37:19.807+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 3.1681ms
+2024-11-21T16:37:29.208+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T16:37:29.208+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 []}
+2024-11-21T16:37:29.208+0300	INFO	handlers/handlers.go:41	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T16:37:29.208+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T16:37:29.208+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 0s
+2024-11-21T16:37:29.501+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T16:57:19.585+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T16:57:19.586+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 []}
+2024-11-21T16:57:19.586+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T16:57:19.587+0300	INFO	handlers/handlers.go:41	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T16:57:19.587+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 2.6705ms
+2024-11-21T16:57:19.875+0300	ERROR	crud/musicCrud.go:27	Ошибка при чтении строки: sql: expected 3 destination arguments in Scan, not 1
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:27
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T16:57:19.881+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetLib.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:28
+2024-11-21T17:01:04.861+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:01:04.961+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:01:04.962+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:01:04.963+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:01:04.963+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:01:06.759+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:01:06.761+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:01:06.762+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 []}
+2024-11-21T17:01:06.763+0300	INFO	handlers/handlers.go:41	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:01:06.764+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 4.2902ms
+2024-11-21T17:01:07.060+0300	ERROR	crud/musicCrud.go:27	Ошибка при чтении строки: sql: expected 3 destination arguments in Scan, not 1
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:27
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:01:07.066+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetLib.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:28
+2024-11-21T17:02:27.521+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:02:27.609+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:02:27.610+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:02:27.610+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:02:27.611+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:02:29.534+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:02:29.536+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:02:29.537+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 []}
+2024-11-21T17:02:29.539+0300	INFO	handlers/handlers.go:41	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:02:29.540+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 5.2368ms
+2024-11-21T17:02:29.844+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:02:57.871+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:02:57.916+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:02:57.917+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:02:57.917+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:02:57.917+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:03:01.092+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:03:01.093+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:03:01.094+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 []}
+2024-11-21T17:03:01.095+0300	INFO	handlers/handlers.go:41	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:03:01.096+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 3.7066ms
+2024-11-21T17:03:01.394+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:03:39.533+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:03:39.564+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:03:39.565+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:03:39.565+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:03:39.565+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:03:40.671+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:03:40.671+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:03:40.675+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 []}
+2024-11-21T17:03:40.677+0300	INFO	handlers/handlers.go:42	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:03:40.677+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 6.238ms
+2024-11-21T17:03:40.970+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:03:58.333+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:03:58.446+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:03:58.446+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:03:58.447+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:03:58.450+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:03:59.097+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:03:59.098+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:03:59.099+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 []}
+2024-11-21T17:03:59.100+0300	INFO	handlers/handlers.go:42	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:03:59.101+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 3.9732ms
+2024-11-21T17:03:59.418+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:08:30.717+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:08:30.840+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:08:30.840+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:08:30.840+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:08:30.844+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:08:32.274+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:08:32.275+0300	INFO	handlers/handlers.go:42	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:08:32.275+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:08:32.276+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 1.948ms
+2024-11-21T17:08:32.572+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:08:32.575+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetLib.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:35
+2024-11-21T17:12:06.362+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:12:06.482+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:12:06.482+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:12:06.482+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:12:06.482+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:12:08.072+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:12:08.073+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:12:08.422+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:12:08.427+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 [1 Песня: Shape of You исполнителя: 1 2 Песня: Blinding Lights исполнителя: 2 3 Песня: Dance Monkey исполнителя: 3 4 Песня: Despacito исполнителя: 4 5 Песня: Someone You Loved исполнителя: 5 6 Песня: Circles исполнителя: 6 7 Песня: Bad Guy исполнителя: 7 8 Песня: Senorita исполнителя: 8 9 Песня: Old Town Road исполнителя: 9 10 Песня: Memories исполнителя: 10]}
+2024-11-21T17:12:09.079+0300	INFO	handlers/handlers.go:43	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:12:09.080+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 1.0084578s
+2024-11-21T17:13:22.417+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:13:22.417+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:13:22.710+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:13:22.713+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 [11 Песня: Sunflower исполнителя: 11 12 Песня: 7 rings исполнителя: 12 13 Песня: Perfect исполнителя: 13 14 Песня: Believer исполнителя: 14 15 Песня: Happier исполнителя: 15 16 Песня: thank u, next исполнителя: 16 17 Песня: ROXANNE исполнителя: 17 18 Песня: Closer исполнителя: 18 19 Песня: Dynamite исполнителя: 19 20 Песня: Uptown Funk исполнителя: 20]}
+2024-11-21T17:13:23.421+0300	INFO	handlers/handlers.go:43	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:13:23.422+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 1.005099s
+2024-11-21T17:13:33.015+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:13:33.151+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:13:33.151+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:13:33.151+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:13:33.155+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:13:34.775+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:13:34.775+0300	INFO	handlers/handlers.go:42	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:13:34.776+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:13:34.777+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 1.9571ms
+2024-11-21T17:13:35.072+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:13:35.074+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetLib.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:35
+2024-11-21T17:16:16.551+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:16:16.622+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:16:16.622+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:16:16.623+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:16:16.623+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:16:18.018+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:16:18.019+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:16:18.339+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:16:18.341+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000242060}
+2024-11-21T17:16:18.341+0300	INFO	handlers/handlers.go:45	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:16:18.342+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 323.557ms
+2024-11-21T17:16:23.992+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:16:23.992+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:16:24.289+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:16:24.291+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000242408}
+2024-11-21T17:16:24.292+0300	INFO	handlers/handlers.go:45	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:16:24.293+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 300.4643ms
+2024-11-21T17:16:28.101+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:16:28.101+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:16:28.389+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:16:28.390+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000242480}
+2024-11-21T17:16:28.391+0300	INFO	handlers/handlers.go:45	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:16:28.392+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 290.5727ms
+2024-11-21T17:29:55.768+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:29:55.902+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:29:55.903+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:29:55.904+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:29:55.904+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:29:59.121+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:29:59.126+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:29:59.373+0300	ERROR	crud/musicCrud.go:16	Ошибка запроса к БД: pq: operator does not exist: integer ~~ unknown
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:16
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:29:59.376+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T17:31:00.208+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:31:00.282+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:31:00.282+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:31:00.282+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:31:00.282+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:31:00.407+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:31:00.407+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:31:00.654+0300	ERROR	crud/musicCrud.go:16	Ошибка запроса к БД: pq: operator does not exist: integer ~~ unknown
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:16
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:31:00.661+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T17:31:03.493+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:31:03.606+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:31:03.608+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:31:03.608+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:31:03.609+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:31:03.628+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:31:03.629+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:31:03.891+0300	ERROR	crud/musicCrud.go:16	Ошибка запроса к БД: pq: operator does not exist: integer ~~ unknown
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:16
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:31:03.901+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T17:31:11.605+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:31:11.712+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:31:11.713+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:31:11.714+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:31:11.714+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:31:13.824+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:31:13.825+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:31:14.071+0300	ERROR	crud/musicCrud.go:16	Ошибка запроса к БД: pq: operator does not exist: integer ~~ unknown
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:16
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:31:14.073+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T17:31:46.211+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:31:46.255+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:31:46.255+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:31:46.259+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:31:46.259+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:31:46.268+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:31:46.269+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:31:46.510+0300	ERROR	crud/musicCrud.go:16	Ошибка запроса к БД: pq: operator does not exist: integer ~~ unknown
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:16
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:31:46.512+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T17:32:12.097+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:32:12.145+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:32:12.145+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:32:12.145+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:32:12.145+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:32:15.663+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:32:15.667+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:32:15.916+0300	ERROR	crud/musicCrud.go:16	Ошибка запроса к БД: pq: operator does not exist: integer ~~ unknown
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:16
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:32:15.919+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T17:34:07.215+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:34:07.277+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:34:07.278+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:34:07.278+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:34:07.278+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:34:07.284+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:34:07.284+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:34:07.573+0300	ERROR	crud/musicCrud.go:16	Ошибка запроса к БД: pq: operator does not exist: integer ~~ unknown
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:16
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:34:07.577+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T17:34:12.568+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:34:12.569+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:34:12.869+0300	ERROR	crud/musicCrud.go:16	Ошибка запроса к БД: pq: operator does not exist: integer ~~ unknown
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:16
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:34:12.871+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T17:42:45.128+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:42:45.169+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:42:45.170+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:42:45.170+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:42:45.171+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:42:45.185+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:42:45.186+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:42:45.430+0300	ERROR	crud/musicCrud.go:16	Ошибка запроса к БД: pq: syntax error at or near "WHERE"
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:16
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:42:45.433+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T17:47:40.554+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:47:40.620+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:47:40.621+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:47:40.621+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:47:40.621+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:47:44.027+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:47:44.027+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:47:44.269+0300	ERROR	crud/musicCrud.go:16	Ошибка запроса к БД: pq: could not determine data type of parameter $1
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:16
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:47:44.271+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T17:48:18.147+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:48:18.147+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:48:18.390+0300	ERROR	crud/musicCrud.go:16	Ошибка запроса к БД: pq: could not determine data type of parameter $1
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:16
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:48:18.395+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T17:50:21.007+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:50:21.095+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:50:21.095+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:50:21.096+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:50:21.096+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:50:21.278+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:50:21.278+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:50:21.975+0300	ERROR	crud/musicCrud.go:16	Ошибка запроса к БД: pq: could not determine data type of parameter $1
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:16
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T17:50:21.978+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T17:51:55.298+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:51:55.394+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:51:55.395+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:51:55.396+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:51:55.397+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:52:02.474+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:52:02.475+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:52:02.773+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:52:02.776+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001be060}
+2024-11-21T17:52:02.777+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:52:02.778+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 303.8194ms
+2024-11-21T17:52:15.212+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:52:15.213+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:52:15.502+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:52:15.505+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001be3f0}
+2024-11-21T17:52:15.506+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:52:15.507+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 294.4267ms
+2024-11-21T17:52:19.474+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:52:19.474+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:52:19.784+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:52:19.787+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001be6a8}
+2024-11-21T17:52:19.787+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:52:19.789+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 314.9683ms
+2024-11-21T17:52:25.588+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:52:25.590+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:52:25.882+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:52:25.884+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001be948}
+2024-11-21T17:52:25.885+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:52:25.885+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 297.8319ms
+2024-11-21T17:52:26.664+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:52:26.667+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:52:26.761+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:52:26.763+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000138450}
+2024-11-21T17:52:26.763+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:52:26.764+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 99.516ms
+2024-11-21T17:52:55.056+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:52:55.056+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:52:55.355+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:52:55.360+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001384f8}
+2024-11-21T17:52:55.361+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:52:55.362+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 305.8588ms
+2024-11-21T17:53:00.750+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:53:00.754+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:53:01.050+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:53:01.053+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001387b0}
+2024-11-21T17:53:01.053+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:53:01.054+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 303.5648ms
+2024-11-21T17:53:13.787+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:53:13.788+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:53:14.081+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:53:14.083+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000138a50}
+2024-11-21T17:53:14.084+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:53:14.085+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 297.8891ms
+2024-11-21T17:53:18.456+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:53:18.457+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:53:18.746+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:53:18.748+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001bea20}
+2024-11-21T17:53:18.748+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:53:18.749+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 293.164ms
+2024-11-21T17:53:30.009+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:53:30.009+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:53:30.320+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:53:30.322+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000138d08}
+2024-11-21T17:53:30.323+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:53:30.323+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 314.6624ms
+2024-11-21T17:53:36.857+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:53:36.858+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:53:37.161+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:53:37.162+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001beca8}
+2024-11-21T17:53:37.163+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:53:37.164+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 307.1471ms
+2024-11-21T17:53:39.845+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:53:39.846+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:53:39.941+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:53:39.942+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001bef48}
+2024-11-21T17:53:39.942+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:53:39.943+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 97.6671ms
+2024-11-21T17:53:43.268+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:53:43.268+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:53:43.561+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:53:43.562+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001befd8}
+2024-11-21T17:53:43.563+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:53:43.564+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 295.9466ms
+2024-11-21T17:53:51.782+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:53:51.782+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:53:52.076+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:53:52.078+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001bf278}
+2024-11-21T17:53:52.079+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:53:52.080+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 297.96ms
+2024-11-21T17:54:19.721+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:54:19.723+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:54:20.012+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:54:20.014+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001bf530}
+2024-11-21T17:54:20.015+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:54:20.016+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 295.1002ms
+2024-11-21T17:54:22.387+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:54:22.387+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:54:22.484+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:54:22.485+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001bf7d0}
+2024-11-21T17:54:22.485+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:54:22.485+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 98.2036ms
+2024-11-21T17:54:26.290+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:54:26.290+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:54:26.590+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:54:26.593+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001bf860}
+2024-11-21T17:54:26.594+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:54:26.594+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 304.1428ms
+2024-11-21T17:54:31.974+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:54:31.975+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:54:32.262+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:54:32.265+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000008270}
+2024-11-21T17:54:32.265+0300	INFO	handlers/handlers.go:49	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:54:32.266+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 291.812ms
+2024-11-21T17:56:21.264+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:56:21.308+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:56:21.309+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:56:21.309+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:56:21.309+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:56:26.680+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:56:26.680+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:56:26.969+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:56:26.971+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc00013e060}
+2024-11-21T17:56:26.971+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:56:26.972+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 292.3648ms
+2024-11-21T17:56:30.895+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:56:30.895+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:56:31.185+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:56:31.187+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000180090}
+2024-11-21T17:56:31.188+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:56:31.189+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 293.7868ms
+2024-11-21T17:56:33.561+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:56:33.561+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:56:33.655+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:56:33.657+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0000083c0}
+2024-11-21T17:56:33.658+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:56:33.659+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 98.1664ms
+2024-11-21T17:56:49.949+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T17:56:50.000+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T17:56:50.000+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T17:56:50.001+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T17:56:50.001+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T17:56:56.150+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:56:56.153+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:56:56.446+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:56:56.448+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000146060}
+2024-11-21T17:56:56.449+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:56:56.450+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 299.217ms
+2024-11-21T17:56:59.861+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T17:56:59.864+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T17:57:00.156+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T17:57:00.156+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000008390}
+2024-11-21T17:57:00.157+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T17:57:00.158+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 295.4814ms
+2024-11-21T18:10:12.474+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T18:10:12.501+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T18:10:12.501+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T18:10:12.501+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T18:10:12.501+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T18:10:21.399+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:10:21.400+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:10:21.679+0300	ERROR	crud/musicCrud.go:27	Ошибка при чтении строки: sql: expected 2 destination arguments in Scan, not 3
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:27
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T18:10:21.680+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T18:10:52.723+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T18:10:52.750+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T18:10:52.750+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T18:10:52.750+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T18:10:52.750+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T18:10:52.919+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:10:52.920+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:10:53.202+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:10:53.202+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc00023a060}
+2024-11-21T18:10:53.203+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:10:53.203+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 283.6518ms
+2024-11-21T18:11:08.581+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:11:08.582+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:11:08.859+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:11:08.859+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001480a8}
+2024-11-21T18:11:08.859+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:11:08.859+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 277.8324ms
+2024-11-21T18:13:51.491+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T18:13:51.517+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T18:13:51.518+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T18:13:51.518+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T18:13:51.518+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T18:13:56.904+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:13:56.905+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:13:57.186+0300	ERROR	crud/musicCrud.go:27	Ошибка при чтении строки: sql: expected 5 destination arguments in Scan, not 3
+music/internal/crud.getListDB
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/crud/musicCrud.go:27
+music/pkg/db.(*ConnectDatabase).Query
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/connect.go:28
+2024-11-21T18:13:57.187+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {500 Ошибка запроса к базе данных}
+2024-11-21T18:14:19.419+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T18:14:19.447+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T18:14:19.447+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T18:14:19.447+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T18:14:19.447+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T18:14:19.503+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:14:19.503+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:14:19.786+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:14:19.786+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc00023a060}
+2024-11-21T18:14:19.787+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:14:19.787+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 283.4702ms
+2024-11-21T18:15:07.116+0300	INFO	server/middleware.go:30	Request POST /list
+2024-11-21T18:15:07.116+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:15:07.400+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:15:07.400+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc00023a3f0}
+2024-11-21T18:15:07.401+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:15:07.401+0300	INFO	server/middleware.go:35	Completed POST /list with 200 in 285.3201ms
+2024-11-21T18:15:11.355+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:15:11.355+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:15:11.639+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:15:11.640+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0000083f0}
+2024-11-21T18:15:11.640+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:15:11.640+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 285.1495ms
+2024-11-21T18:15:22.690+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T18:15:22.717+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T18:15:22.717+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T18:15:22.717+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T18:15:22.717+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T18:15:32.933+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:15:32.934+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:15:33.213+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:15:33.214+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0000083d8}
+2024-11-21T18:15:33.215+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:15:33.215+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 281.3113ms
+2024-11-21T18:16:09.173+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:16:09.173+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:16:09.472+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:16:09.473+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc00012e0c0}
+2024-11-21T18:16:09.473+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:16:09.473+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 301.0078ms
+2024-11-21T18:16:20.888+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:16:20.888+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:16:21.175+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:16:21.175+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000202078}
+2024-11-21T18:16:21.175+0300	INFO	handlers/handlers.go:47	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:16:21.176+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 288.5045ms
+2024-11-21T18:16:59.321+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:16:59.322+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {400 Неверный формат ввода страницы}
+2024-11-21T18:16:59.322+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 1.3969ms
+2024-11-21T18:17:52.144+0300	INFO	db/connect.go:54	Успешное подключение к базе данных
+2024-11-21T18:17:52.173+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T18:17:52.173+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T18:17:52.173+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T18:17:52.173+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T18:18:05.502+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:18:05.503+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:18:05.785+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:18:05.785+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000230060}
+2024-11-21T18:18:05.785+0300	INFO	handlers/handlers.go:50	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:18:05.786+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 284.259ms
+2024-11-21T18:18:23.467+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:18:23.467+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:18:23.756+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:18:23.756+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0002304f8}
+2024-11-21T18:18:23.756+0300	INFO	handlers/handlers.go:50	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:18:23.756+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 289.0988ms
+2024-11-21T18:18:28.518+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:18:28.519+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:18:28.801+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:18:28.802+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0001400d8}
+2024-11-21T18:18:28.803+0300	INFO	handlers/handlers.go:50	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:18:28.803+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 284.3569ms
+2024-11-21T18:18:33.628+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:18:33.629+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:18:33.914+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:18:33.914+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0002307f8}
+2024-11-21T18:18:33.914+0300	INFO	handlers/handlers.go:50	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:18:33.914+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 286.1771ms
+2024-11-21T18:18:49.466+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:18:49.467+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:18:49.748+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:18:49.749+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000230b10}
+2024-11-21T18:18:49.749+0300	INFO	handlers/handlers.go:50	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:18:49.750+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 283.7333ms
+2024-11-21T18:18:57.024+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:18:57.024+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:18:57.307+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:18:57.307+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc0000083c0}
+2024-11-21T18:18:57.307+0300	INFO	handlers/handlers.go:50	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:18:57.307+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 283.5268ms
+2024-11-21T18:18:59.799+0300	INFO	server/middleware.go:30	Request GET /list
+2024-11-21T18:18:59.799+0300	INFO	db/connect.go:27	Выполнение команды: list
+2024-11-21T18:18:59.893+0300	INFO	crud/musicCrud.go:34	Вывод данных библиотеки прошёл успешно
+2024-11-21T18:18:59.894+0300	INFO	server/httpserver.go:35	Ответ успешно обработан: {200 0xc000230de0}
+2024-11-21T18:18:59.895+0300	INFO	handlers/handlers.go:50	Запрос на получение данных библиотеки успешно выполнен
+2024-11-21T18:18:59.895+0300	INFO	server/middleware.go:35	Completed GET /list with 200 in 95.3243ms
+2024-11-21T19:04:10.506+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:04:10.534+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:04:10.534+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:04:10.534+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:04:10.534+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:04:10.534+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:04:10.535+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:04:10.535+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:05:12.797+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:05:12.797+0300	DEBUG	handlers/handlers.go:78	Неверный формат p=
+2024-11-21T19:05:12.797+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:05:12.798+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {400 Неверный формат ввода страницы}
+2024-11-21T19:05:12.798+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 530.2µs
+2024-11-21T19:06:03.125+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:06:03.152+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:06:03.152+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:06:03.152+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:06:03.152+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:06:03.152+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:06:03.152+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:06:03.153+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:06:08.437+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:06:08.437+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:06:08.582+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:06:08.582+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:06:08.582+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:06:08.583+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:06:08.666+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:06:08.667+0300	DEBUG	handlers/handlers.go:123	Текст песни с id=1 получен
+2024-11-21T19:06:08.667+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 230.6484ms
+2024-11-21T19:06:08.935+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetText.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:106
+2024-11-21T19:08:35.786+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:08:35.816+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:08:35.817+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:08:35.817+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:08:35.817+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:08:35.817+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:08:35.817+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:08:35.817+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:08:37.227+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:08:37.228+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:08:37.362+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:08:37.362+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:08:37.362+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:08:37.363+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:08:37.408+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:08:37.408+0300	DEBUG	handlers/handlers.go:124	Текст песни с id=1 получен
+2024-11-21T19:08:37.646+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]}
+2024-11-21T19:09:45.126+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:09:45.152+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:09:45.152+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:09:45.153+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:09:45.153+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:09:45.153+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:09:45.153+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:09:45.153+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:09:46.316+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:09:46.316+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:09:46.452+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:09:46.452+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:09:46.452+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:09:46.454+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:09:46.499+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:09:46.499+0300	DEBUG	handlers/handlers.go:125	Текст песни с id=1 получен
+2024-11-21T19:09:46.500+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 183.5203ms
+2024-11-21T19:09:46.734+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetText.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:107
+2024-11-21T19:13:32.211+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:13:32.241+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:13:32.241+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:13:32.242+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:13:32.242+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:13:32.242+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:13:32.242+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:13:32.242+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:13:33.669+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:13:33.669+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:13:33.806+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:13:33.806+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:13:33.806+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:13:33.807+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:13:33.851+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:13:33.852+0300	DEBUG	handlers/handlers.go:125	Текст песни с id=1 получен
+2024-11-21T19:13:33.853+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 184.0346ms
+2024-11-21T19:13:34.086+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetText.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:107
+2024-11-21T19:13:34.086+0300	DEBUG	handlers/handlers.go:108	Текст песни с id=1 получен
+2024-11-21T19:14:05.229+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:14:05.255+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:14:05.256+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:14:05.256+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:14:05.256+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:14:05.256+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:14:05.256+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:14:05.257+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:14:06.668+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:14:06.669+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:14:06.804+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:14:07.810+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:14:07.810+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:14:07.810+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:14:07.861+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:14:07.862+0300	DEBUG	handlers/handlers.go:127	Текст песни с id=1 получен
+2024-11-21T19:14:07.862+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 1.1940678s
+2024-11-21T19:14:08.113+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetText.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:108
+2024-11-21T19:14:08.114+0300	DEBUG	handlers/handlers.go:110	Текст песни с id=1 получен
+2024-11-21T19:14:28.045+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:14:28.074+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:14:28.074+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:14:28.074+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:14:28.075+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:14:28.075+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:14:28.075+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:14:28.075+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:14:29.219+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:14:29.219+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:14:29.356+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:14:29.356+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:14:29.356+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:14:29.358+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:14:29.402+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:14:29.403+0300	DEBUG	handlers/handlers.go:126	Текст песни с id=1 получен
+2024-11-21T19:14:29.403+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 183.6301ms
+2024-11-21T19:14:29.635+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetText.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:107
+2024-11-21T19:14:29.636+0300	DEBUG	handlers/handlers.go:109	Текст песни с id=1 получен
+2024-11-21T19:15:38.061+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:15:38.087+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:15:38.087+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:15:38.087+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:15:38.087+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:15:38.087+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:15:38.087+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:15:38.087+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:15:40.224+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:15:40.224+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:15:40.362+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:15:40.362+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:15:40.362+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:15:40.363+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:15:40.408+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:15:40.408+0300	DEBUG	handlers/handlers.go:126	Текст песни с id=1 получен
+2024-11-21T19:15:40.408+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 183.9173ms
+2024-11-21T19:15:40.644+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetText.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:107
+2024-11-21T19:15:40.645+0300	DEBUG	handlers/handlers.go:109	Текст песни с id=1 получен
+2024-11-21T19:16:58.309+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:16:58.335+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:16:58.335+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:16:58.335+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:16:58.335+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:16:58.336+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:16:58.336+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:16:58.336+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:16:58.474+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:16:58.475+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:16:58.612+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:16:58.612+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:16:58.612+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:16:58.613+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:16:58.658+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:16:58.659+0300	DEBUG	handlers/handlers.go:127	Текст песни с id=1 получен
+2024-11-21T19:16:58.659+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 184.8643ms
+2024-11-21T19:16:58.895+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetText.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:108
+2024-11-21T19:16:58.896+0300	DEBUG	handlers/handlers.go:110	Текст песни с id=1 получен
+2024-11-21T19:18:08.295+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:18:08.323+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:18:08.323+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:18:08.323+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:18:08.324+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:18:08.324+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:18:08.324+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:18:08.324+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:18:10.273+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:18:10.273+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:18:10.409+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:18:10.409+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:18:10.410+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:18:10.410+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:18:10.689+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]}
+2024-11-21T19:18:10.689+0300	DEBUG	handlers/handlers.go:110	Текст песни с id=1 получен
+2024-11-21T19:19:24.368+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:19:24.395+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:19:24.395+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:19:24.395+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:19:24.395+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:19:24.396+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:19:24.396+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:19:24.396+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:19:26.400+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:19:26.401+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:19:26.540+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:19:26.540+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:19:26.540+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:19:26.541+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:19:26.586+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:19:26.586+0300	DEBUG	handlers/handlers.go:126	Текст песни с id=1 получен
+2024-11-21T19:19:26.587+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 186.268ms
+2024-11-21T19:19:26.827+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetText.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:107
+2024-11-21T19:19:26.827+0300	DEBUG	handlers/handlers.go:109	Текст песни с id=1 получен
+2024-11-21T19:20:56.635+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:20:56.661+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:20:56.661+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:20:56.661+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:20:56.662+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:20:56.662+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:20:56.662+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:20:56.663+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:21:00.021+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:21:00.021+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:21:00.158+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:21:00.158+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:21:00.158+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:21:00.159+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:21:00.204+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:21:00.204+0300	DEBUG	handlers/handlers.go:124	Текст песни с id=1 получен
+2024-11-21T19:21:00.205+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 184.2145ms
+2024-11-21T19:21:00.449+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetText.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:105
+2024-11-21T19:21:00.450+0300	DEBUG	handlers/handlers.go:107	Текст песни с id=1 получен
+2024-11-21T19:21:21.023+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:21:21.053+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:21:21.053+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:21:21.053+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:21:21.053+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:21:21.054+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:21:21.054+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:21:21.054+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:21:23.759+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:21:23.759+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:21:23.895+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:21:23.895+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:21:23.895+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:21:23.896+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:21:23.942+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:21:23.942+0300	DEBUG	handlers/handlers.go:124	Текст песни с id=1 получен
+2024-11-21T19:21:23.942+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 183.3032ms
+2024-11-21T19:21:24.180+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetText.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:105
+2024-11-21T19:21:24.180+0300	DEBUG	handlers/handlers.go:107	Текст песни с id=1 получен
+2024-11-21T19:22:31.126+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:22:31.159+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:22:31.159+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:22:31.160+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:22:31.160+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:22:31.160+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:22:31.160+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:22:31.160+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:22:33.214+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:22:33.214+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:22:33.351+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:22:33.351+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:22:33.351+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:22:33.352+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:22:33.396+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:22:33.397+0300	DEBUG	handlers/handlers.go:125	Текст песни с id=1 получен
+2024-11-21T19:22:33.397+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 183.0908ms
+2024-11-21T19:22:33.636+0300	ERROR	server/httpserver.go:31	Ошибка кодирования ответа: http: wrote more than the declared Content-Length
+music/pkg/server.AnswerHandler
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/server/httpserver.go:31
+music/internal/handlers.GetText.func1
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:106
+2024-11-21T19:22:36.638+0300	DEBUG	handlers/handlers.go:108	Текст песни с id=1 получен
+2024-11-21T19:25:46.689+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:25:46.715+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:25:46.716+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:25:46.716+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:25:46.716+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:25:46.716+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:25:46.716+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:25:46.717+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:25:49.670+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:25:49.670+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:25:49.804+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:25:49.804+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:25:49.805+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:25:49.806+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:25:49.852+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:25:49.852+0300	DEBUG	handlers/handlers.go:122	Текст песни с id=1 получен
+2024-11-21T19:25:49.852+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 182.2704ms
+2024-11-21T19:25:50.085+0300	DEBUG	handlers/handlers.go:105	Текст песни с id=1 получен
+2024-11-21T19:28:19.588+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:28:19.614+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:28:19.615+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:28:19.615+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:28:19.615+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:28:19.615+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:28:19.615+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:28:19.615+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:28:22.115+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:28:22.115+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:28:22.270+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:28:22.270+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:28:22.270+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:28:22.270+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:28:22.316+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:28:22.572+0300	DEBUG	handlers/handlers.go:107	Текст песни с id=1 получен
+2024-11-21T19:28:22.572+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]
+A club isnt the best place to find a lover
+So the bar is where I go (Mm)
+Me and my friends at the table doin shots
+Drinkin fast and then we talk slow (Mm)
+And you come over and start up a conversation with just me
+And trust me, Ill give it a chance now (Mm)
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance and now Im singin like}
+2024-11-21T19:28:22.573+0300	DEBUG	handlers/handlers.go:126	Текст песни с id=1 получен
+2024-11-21T19:28:22.573+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 457.8641ms
+2024-11-21T19:29:19.868+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:29:19.869+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:29:19.926+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:29:19.926+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:29:19.926+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:29:19.926+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:29:19.975+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:29:20.235+0300	DEBUG	handlers/handlers.go:107	Текст песни с id=1 получен
+2024-11-21T19:29:20.235+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]
+A club isnt the best place to find a lover
+So the bar is where I go (Mm)
+Me and my friends at the table doin shots
+Drinkin fast and then we talk slow (Mm)
+And you come over and start up a conversation with just me
+And trust me, Ill give it a chance now (Mm)
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance and now Im singin like}
+2024-11-21T19:29:20.236+0300	DEBUG	handlers/handlers.go:126	Текст песни с id=1 получен
+2024-11-21T19:29:20.236+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 368.4029ms
+2024-11-21T19:30:52.724+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:30:52.725+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:30:52.770+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:30:52.770+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:30:52.770+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:30:52.770+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:30:52.815+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:30:53.048+0300	DEBUG	handlers/handlers.go:107	Текст песни с id=1 получен
+2024-11-21T19:30:53.048+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]
+A club isnt the best place to find a lover
+So the bar is where I go (Mm)
+Me and my friends at the table doin shots
+Drinkin fast and then we talk slow (Mm)
+And you come over and start up a conversation with just me
+And trust me, Ill give it a chance now (Mm)
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance and now Im singin like}
+2024-11-21T19:30:53.049+0300	DEBUG	handlers/handlers.go:126	Текст песни с id=1 получен
+2024-11-21T19:30:53.049+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 324.9402ms
+2024-11-21T19:30:56.107+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:30:56.108+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:30:56.153+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:30:56.153+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:30:56.153+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:30:56.154+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:30:56.199+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:30:56.437+0300	DEBUG	handlers/handlers.go:107	Текст песни с id=1 получен
+2024-11-21T19:31:25.847+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:31:25.848+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:31:25.895+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:31:25.895+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:31:25.895+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:31:25.895+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:31:25.941+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:31:26.185+0300	DEBUG	handlers/handlers.go:107	Текст песни с id=1 получен
+2024-11-21T19:31:26.185+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]
+A club isnt the best place to find a lover
+So the bar is where I go (Mm)
+Me and my friends at the table doin shots
+Drinkin fast and then we talk slow (Mm)
+And you come over and start up a conversation with just me
+And trust me, Ill give it a chance now (Mm)
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance and now Im singin like}
+2024-11-21T19:31:26.186+0300	DEBUG	handlers/handlers.go:126	Текст песни с id=1 получен
+2024-11-21T19:31:26.187+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 339.7869ms
+2024-11-21T19:37:13.448+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:37:13.475+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:37:13.475+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:37:13.475+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:37:13.475+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:37:13.475+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:37:13.476+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:37:13.476+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:37:17.062+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:37:17.063+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:37:17.202+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:37:17.202+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:37:17.203+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:37:17.483+0300	DEBUG	handlers/handlers.go:107	Текст песни с id=1 получен
+2024-11-21T19:37:17.483+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:37:17.483+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]
+A club isnt the best place to find a lover
+So the bar is where I go (Mm)
+Me and my friends at the table doin shots
+Drinkin fast and then we talk slow (Mm)
+And you come over and start up a conversation with just me
+And trust me, Ill give it a chance now (Mm)
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance and now Im singin like}
+2024-11-21T19:37:17.485+0300	DEBUG	handlers/handlers.go:126	Текст песни с id=1 получен
+2024-11-21T19:37:17.485+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 422.1051ms
+2024-11-21T19:37:17.528+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:37:32.609+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:37:32.610+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:37:32.655+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:37:32.655+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]
+A club isnt the best place to find a lover
+So the bar is where I go (Mm)
+Me and my friends at the table doin shots
+Drinkin fast and then we talk slow (Mm)
+And you come over and start up a conversation with just me
+And trust me, Ill give it a chance now (Mm)
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance and now Im singin like}
+2024-11-21T19:37:32.656+0300	DEBUG	handlers/handlers.go:91	Текст песни с id=1 получен из кэша
+2024-11-21T19:37:32.657+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 47.7499ms
+2024-11-21T19:42:10.306+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:42:10.334+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:42:10.334+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:42:10.334+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:42:10.334+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:42:10.335+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:42:10.335+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:42:10.335+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:42:14.004+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:42:14.004+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:42:14.140+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:42:14.140+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]
+A club isnt the best place to find a lover
+So the bar is where I go (Mm)
+Me and my friends at the table doin shots
+Drinkin fast and then we talk slow (Mm)
+And you come over and start up a conversation with just me
+And trust me, Ill give it a chance now (Mm)
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance and now Im singin like}
+2024-11-21T19:42:14.140+0300	DEBUG	handlers/handlers.go:91	Текст песни с id=1 получен из кэша
+2024-11-21T19:42:14.141+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 137.1477ms
+2024-11-21T19:42:30.374+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:42:30.400+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:42:30.400+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:42:30.400+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:42:30.401+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:42:30.401+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:42:30.401+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:42:30.401+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:42:33.011+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:42:33.011+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:42:33.147+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:42:33.147+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]
+A club isnt the best place to find a lover
+So the bar is where I go (Mm)
+Me and my friends at the table doin shots
+Drinkin fast and then we talk slow (Mm)
+And you come over and start up a conversation with just me
+And trust me, Ill give it a chance now (Mm)
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance and now Im singin like}
+2024-11-21T19:42:33.148+0300	DEBUG	handlers/handlers.go:91	Текст песни с id=1 получен из кэша
+2024-11-21T19:42:33.148+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 137.3594ms
+2024-11-21T19:43:25.891+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:43:25.925+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:43:25.925+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:43:25.926+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:43:25.926+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:43:25.926+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:43:25.926+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:43:25.927+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:43:29.010+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:43:29.010+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:43:29.146+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:43:29.146+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]
+A club isnt the best place to find a lover
+So the bar is where I go (Mm)
+Me and my friends at the table doin shots
+Drinkin fast and then we talk slow (Mm)
+And you come over and start up a conversation with just me
+And trust me, Ill give it a chance now (Mm)
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance and now Im singin like}
+2024-11-21T19:43:29.147+0300	DEBUG	handlers/handlers.go:91	Текст песни с id=1 получен из кэша
+2024-11-21T19:43:29.147+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 137.4315ms
+2024-11-21T19:43:49.454+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:43:49.480+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:43:49.480+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:43:49.480+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:43:49.481+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:43:49.481+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:43:49.481+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:43:49.481+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:43:52.606+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:43:52.606+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:43:52.742+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:43:52.742+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:43:52.743+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:43:53.024+0300	DEBUG	crud/musicCrud.go:57	Вывод текста песни с id 1 прошёл успешно
+2024-11-21T19:43:53.024+0300	DEBUG	handlers/handlers.go:110	Текст песни с id=1 получен
+2024-11-21T19:43:53.024+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:43:53.024+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]
+A club isnt the best place to find a lover
+So the bar is where I go (Mm)
+Me and my friends at the table doin shots
+Drinkin fast and then we talk slow (Mm)
+And you come over and start up a conversation with just me
+And trust me, Ill give it a chance now (Mm)
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance and now Im singin like}
+2024-11-21T19:43:53.026+0300	DEBUG	handlers/handlers.go:129	Текст песни с id=1 получен
+2024-11-21T19:43:53.026+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 419.8972ms
+2024-11-21T19:43:53.024+0300	ERROR	db/redis.go:40	Ошибка при создании ключа в Redis: redis: can't marshal []string (implement encoding.BinaryMarshaler)
+music/pkg/db.NewKey
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/pkg/db/redis.go:40
+2024-11-21T19:43:53.024+0300	ERROR	handlers/handlers.go:122	Ошибка записи в кэш
+music/internal/handlers.GetText.func2
+	C:/Users/prusakovR/Documents/GitHub/EffectiveMobile/internal/handlers/handlers.go:122
+2024-11-21T19:44:38.723+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:44:38.757+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:44:38.757+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:44:38.757+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:44:38.758+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:44:38.758+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:44:38.758+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:44:38.758+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:44:44.774+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:44:44.775+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:44:44.914+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:44:44.914+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:44:44.914+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:44:45.199+0300	DEBUG	crud/musicCrud.go:57	Вывод текста песни с id 1 прошёл успешно
+2024-11-21T19:44:45.200+0300	DEBUG	handlers/handlers.go:110	Текст песни с id=1 получен
+2024-11-21T19:44:45.200+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:44:45.200+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Verse 1]
+A club isnt the best place to find a lover
+So the bar is where I go (Mm)
+Me and my friends at the table doin shots
+Drinkin fast and then we talk slow (Mm)
+And you come over and start up a conversation with just me
+And trust me, Ill give it a chance now (Mm)
+Take my hand, stop, put Van the Man on the jukebox
+And then we start to dance and now Im singin like}
+2024-11-21T19:44:45.201+0300	DEBUG	handlers/handlers.go:129	Текст песни с id=1 получен
+2024-11-21T19:44:45.201+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 426.8237ms
+2024-11-21T19:44:45.249+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:45:03.717+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:45:03.718+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:45:03.764+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:45:03.764+0300	DEBUG	db/connect.go:27	Выполнение команды: text
+2024-11-21T19:45:03.764+0300	DEBUG	crud/musicCrud.go:44	Получение текста песни с id=1 из БД
+2024-11-21T19:45:04.050+0300	DEBUG	crud/musicCrud.go:57	Вывод текста песни с id 1 прошёл успешно
+2024-11-21T19:45:04.051+0300	DEBUG	handlers/handlers.go:110	Текст песни с id=1 получен
+2024-11-21T19:45:04.051+0300	DEBUG	db/redis.go:34	Создание нового ключа в Redis: 1
+2024-11-21T19:45:04.051+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Pre-Chorus]
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Well, come on now, follow my lead
+I may be crazy, dont mind me
+Say, "Boy, lets not talk too much"
+Grab on my waist and put that body on me
+Well, come on now, follow my lead
+Come, come on now, follow my lead, mm}
+2024-11-21T19:45:04.052+0300	DEBUG	handlers/handlers.go:129	Текст песни с id=1 получен
+2024-11-21T19:45:04.052+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 334.8573ms
+2024-11-21T19:45:04.101+0300	DEBUG	db/redis.go:45	Ключ успешно создан в Redis
+2024-11-21T19:45:35.043+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T19:45:35.069+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T19:45:35.069+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T19:45:35.070+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T19:45:35.070+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T19:45:35.070+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T19:45:35.070+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T19:45:35.070+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
+2024-11-21T19:45:39.133+0300	INFO	server/middleware.go:30	Request GET /text
+2024-11-21T19:45:39.133+0300	DEBUG	db/redis.go:52	Получение значения ключа из Redis: 1
+2024-11-21T19:45:39.278+0300	DEBUG	db/redis.go:57	Значение ключа успешно получено из Redis
+2024-11-21T19:45:39.278+0300	DEBUG	server/httpserver.go:35	Ответ успешно обработан: {200 [Pre-Chorus]
+Girl, you know I want your love
+Your love was handmade for somebody like me
+Well, come on now, follow my lead
+I may be crazy, dont mind me
+Say, "Boy, lets not talk too much"
+Grab on my waist and put that body on me
+Well, come on now, follow my lead
+Come, come on now, follow my lead, mm}
+2024-11-21T19:45:39.279+0300	DEBUG	handlers/handlers.go:91	Текст песни с id=1 получен из кэша
+2024-11-21T19:45:39.279+0300	INFO	server/middleware.go:35	Completed GET /text with 200 in 145.9725ms
+2024-11-21T20:22:16.747+0300	INFO	db/connect.go:35	Подключение к базе данных
+2024-11-21T20:22:16.775+0300	INFO	db/connect.go:55	Успешное подключение к базе данных
+2024-11-21T20:22:16.775+0300	INFO	db/redis.go:25	Успешное подключение к Redis
+2024-11-21T20:22:16.775+0300	INFO	crud/collectCrud.go:12	Сборка CRUD
+2024-11-21T20:22:16.776+0300	INFO	serverbuilder/serverbuilder.go:15	Формирование рутера
+2024-11-21T20:22:16.776+0300	INFO	server/httpserver.go:40	Создание нового сервера на порту :8080
+2024-11-21T20:22:16.776+0300	INFO	server/httpserver.go:49	Новый сервер успешно создан
+2024-11-21T20:22:16.776+0300	INFO	music/main.go:26	Сервер запущен на порту 8080
