@@ -1,0 +1,241 @@
+openapi: 3.0.3
+info:
+  title: Music API
+  version: "1.0"
+  description: This is a sample server Music API for Effective Mobile internship.
+
+servers:
+  - url: http://45.81.226.118:8080
+  
+paths:
+  /list:
+    get:
+      summary: Get library
+      description: Get list of songs in the library
+      tags:
+        - Song
+      parameters:
+        - name: p
+          in: query
+          description: Page number
+          required: false
+          schema:
+            type: integer
+        - name: name
+          in: query
+          description: Song name filter
+          required: false
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+                  example: "4 Песня: Despacito исполнителя: Luis Fonsi. Дата выхода: 2017-01-12. Ссылка: https://www.youtube.com/watch?v=kJQP7kiw5Fk"
+        '400':
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "Error"
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "Sorry"
+                
+  /text:
+    get:
+      summary: Get song text
+      description: Get text of the song by id
+      tags:
+        - Song
+      parameters:
+        - name: id
+          in: query
+          description: Song ID
+          required: true
+          schema:
+            type: integer
+        - name: p
+          in: query
+          description: Page number
+          required: false
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "[Verse 1]\nA club isnt the best place to find a lover\nSo the bar is where I go (Mm)\nMe and my friends at the table doin shots\nDrinkin fast and then we talk slow (Mm)\nAnd you come over and start up a conversation with just me\nAnd trust me, Ill give it a chance now (Mm)\nTake my hand, stop, put Van the Man on the jukebox\nAnd then we start to dance and now Im singin like"          
+        '400':
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "Error"
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "Sorry"
+                
+  /del:
+    delete:
+      summary: Delete a song
+      description: Delete a song by id
+      tags:
+        - Song
+      parameters:
+        - name: id
+          in: query
+          description: Song ID
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "Песня успешно удалена"
+        '400':
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "Error"
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "Sorry"
+                
+  /new:
+    post:
+      summary: Create a new song
+      description: Add a new song to the library
+      tags:
+        - Song
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Song'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Answer'
+        '400':
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "Error"
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "Sorry"
+                
+  /change:
+    put:
+      summary: Update song details
+      description: Change details of an existing song or create new
+      tags:
+        - Song
+      parameters:
+        - name: id
+          in: query
+          description: Song ID
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Song'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "Данные обновлены"
+        '400':
+          description: Bad Request
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "Error"                
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                type: string
+                example: "Sorry"
+                
+components:
+  schemas:
+    Answer:
+      type: object
+      properties:
+        releaseDate:
+          type: string
+          example: "01.01.2024"
+        text:
+          type: string
+          example: "Text"
+        link:
+          type: string
+          example: "https://youtube.com/"
+
+    Song:
+      type: object
+      properties:
+        name:
+          type: string
+          example: "New Song"
+        author:
+          type: string
+          example: "Author Name"
+        text:
+          type: string
+          example: "Song lyrics"
+        release:
+          type: string
+          example: "01.01.2024"
+        link:
+          type: string
+          example: "http://example.com"

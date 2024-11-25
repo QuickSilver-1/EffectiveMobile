@@ -13,7 +13,10 @@ func CollectHandlers(conn *db.ConnectDatabase) {
 
     // Инициализация команд в структуре ConnectDatabase
     conn.Command = map[string]func(*sql.DB, chan string, interface{}){
-        "list": getListDB,
-        "text": getText,
+        "list":     getListDB,
+        "text":     getText,
+        "delete":   delSong,
+        "new":      createSongDB,
+        "change":   changeSongDB,
     }
 }

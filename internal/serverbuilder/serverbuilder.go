@@ -20,6 +20,9 @@ func MakeServer(port string, readWait, writeWait int) *http.Server {
     mux.Use(server.LimitMiddleware)
 
     mux.HandleFunc("/list", handlers.GetLib).Methods("GET")
-    mux.HandleFunc("/text", handlers.GetText)
+    mux.HandleFunc("/text", handlers.GetText).Methods("GET")
+    mux.HandleFunc("/del", handlers.DelSong).Methods("DELETE")
+    mux.HandleFunc("/new", handlers.CreateSong).Methods("POST")
+    mux.HandleFunc("/change", handlers.ChangeSong).Methods("PUT")
     return server.NewServer(port, mux, readWait, writeWait)
 }

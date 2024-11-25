@@ -13,7 +13,7 @@ import (
 
 func main() {
 	// Запустить миграцию
-	// db.CreateSchema(db.DB.Connection)
+	db.CreateSchema(db.DB.Connection)
 	
     // Сборка обработчиков базы данных
     dh.CollectHandlers(&db.DB)

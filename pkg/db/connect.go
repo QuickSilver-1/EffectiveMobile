@@ -42,6 +42,7 @@ func NewDB() ConnectDatabase {
         panic("Проблема с подключением к базе данных")
     }
 
+    // Настройки подключения
     conn.SetMaxOpenConns(10)
     conn.SetMaxIdleConns(5)
     conn.SetConnMaxLifetime(time.Second * 3)

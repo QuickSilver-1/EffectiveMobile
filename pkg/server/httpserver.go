@@ -20,19 +20,20 @@ type Answer struct {
 func AnswerHandler(w http.ResponseWriter, code int, value interface{}) {
     w.Header().Set("Content-Type", "application/json")
 
-    answer := Answer{
-        StatusCode: code,
-        Value: value,
-    }
-
-    err := json.NewEncoder(w).Encode(answer)
+    w.WriteHeader(code)
+    err := json.NewEncoder(w).Encode(value)
     if err != nil {
         http.Error(w, err.Error(), http.StatusInternalServerError)
         log.Logger.Error(fmt.Sprintf("Ошибка кодирования ответа: %v", err))
         return
     }
 
-    log.Logger.Debug(fmt.Sprintf("Ответ успешно обработан: %v", answer))
+    if code == 500 {
+        log.Logger.Debug(fmt.Sprintf("Ошибка сервера: %v", value))
+        return
+        // Отправляем ошибку разработчикам для устранения
+    }
+    log.Logger.Debug(fmt.Sprintf("Ответ успешно обработан: %v", value))
 }
 
 // NewServer создает новый HTTP сервер с заданными параметрами
