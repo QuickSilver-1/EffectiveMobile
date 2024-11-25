@@ -1,7 +1,6 @@
 package main
 
 import (
-	"flag"
 	"fmt"
 
 	"music/internal/config"
@@ -17,8 +16,6 @@ func main() {
 	
     // Сборка обработчиков базы данных
     dh.CollectHandlers(&db.DB)
-
-    flag.Parse()
 
     // Cоздания сервера
     appServer := sb.MakeServer(":" + config.AppConfig.HttpPort, 10, 10)
