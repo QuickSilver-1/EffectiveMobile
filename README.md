@@ -1,6 +1,5 @@
 # EffectiveMobile
  
-# StakeWolle
  ![Build Status](https://github.com/QuickSilver-1/EffectiveMobile/actions/workflows/go.yml/badge.svg)
 
  <h3>API для работы с музыкальной библиотекой в рамках технического задания для отбора на стажировку</h3>
